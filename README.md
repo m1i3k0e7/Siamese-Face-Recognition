@@ -4,7 +4,7 @@ Training and using a Siamese network model on a small dataset (e.g., CALFW) for 
 ![image](https://user-images.githubusercontent.com/109360168/212962643-476fbc15-e864-48ff-b2ae-1990ed818f6f.png)
 
 ## Preparing your own dataset
-your dataset should follow the directory structure shown below and all images in your dataset should have the same heights and widths.
+Your dataset should follow the directory structure shown below and all images in your dataset should have the same heights and widths.
 ```
  path/to/dataset/
                 id0/                
